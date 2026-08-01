@@ -1,0 +1,5 @@
+middleware_bridge:
+  ros__parameters:
+    request_timeout_sec: 30.0
+    max_queue_size: 50
+    max_retries: 2

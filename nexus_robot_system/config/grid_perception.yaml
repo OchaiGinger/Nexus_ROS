@@ -1,0 +1,8 @@
+yolo_grid_perception:
+  ros__parameters:
+    rows: 6
+    columns: 6
+    image_width: 640.0
+    image_height: 480.0
+    meters_per_pixel: 0.001
+    model_path: yolov8n.pt

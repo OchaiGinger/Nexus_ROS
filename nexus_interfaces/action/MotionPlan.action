@@ -1,0 +1,11 @@
+string instruction_id
+string routine_step
+geometry_msgs/Pose target_pose
+string grid_id
+---
+bool success
+string message
+trajectory_msgs/JointTrajectory planned_trajectory
+---
+string state
+float32 progress

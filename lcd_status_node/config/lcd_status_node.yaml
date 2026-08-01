@@ -1,0 +1,3 @@
+lcd_status_node:
+  ros__parameters:
+    enabled: true

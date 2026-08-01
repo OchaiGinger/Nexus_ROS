@@ -1,0 +1,9 @@
+std_msgs/Header header
+string instruction_id
+string actor_id
+string action
+string tool
+string target
+string grid_id
+geometry_msgs/Point target_position
+string json_payload

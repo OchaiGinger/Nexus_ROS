@@ -1,0 +1,10 @@
+std_msgs/Header header
+string grid_id
+int32 row
+int32 column
+string label
+float32 confidence
+geometry_msgs/Point center_px
+geometry_msgs/Point center_robot
+float32 distance_m
+bool snapped_to_tool

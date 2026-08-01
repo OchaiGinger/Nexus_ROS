@@ -1,0 +1,3 @@
+yolo_grid_perception:
+  ros__parameters:
+    enabled: true
