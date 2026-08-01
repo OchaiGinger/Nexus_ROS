@@ -1,0 +1,3 @@
+diagnostics_logger:
+  ros__parameters:
+    enabled: true

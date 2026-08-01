@@ -1,0 +1,10 @@
+std_msgs/Header header
+string instruction_id
+string actor_id
+string action
+string tool
+string target
+geometry_msgs/Point estimated_location
+string grid_id
+string json_payload
+uint8 max_retries

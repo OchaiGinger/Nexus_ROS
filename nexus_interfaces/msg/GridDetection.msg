@@ -1,0 +1,11 @@
+std_msgs/Header header
+string object_id
+string label
+string grid_id
+geometry_msgs/Pose robot_pose
+geometry_msgs/Point center_px
+float32 confidence
+float32 rotation_rad
+float32 virtual_line_offset_px
+float32 virtual_line_offset_m
+bool stable

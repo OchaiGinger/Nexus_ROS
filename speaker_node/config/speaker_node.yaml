@@ -1,0 +1,3 @@
+speaker_node:
+  ros__parameters:
+    enabled: true

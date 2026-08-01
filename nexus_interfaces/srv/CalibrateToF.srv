@@ -1,0 +1,5 @@
+float32 reference_height_m
+---
+bool success
+float32 offset_m
+string message
